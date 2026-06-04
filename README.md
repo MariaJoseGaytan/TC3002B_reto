@@ -37,7 +37,7 @@ Se generó un dataset intermedio (`ast_dataset.csv`) donde cada fila contiene un
 
 ---
 
-## ⚙️ Feature Engineering
+##  Feature Engineering
 
 Dado que los algoritmos de Machine Learning requieren entradas numéricas, el núcleo analítico de este proyecto fue la extracción de métricas matemáticas que comparen las dos cadenas AST de cada par. 
 
